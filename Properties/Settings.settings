@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AmtestCommunicator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="USBDeviceType" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">USB-5855</Value>
+    </Setting>
+    <Setting Name="USBDevicePortIn" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="USBDevicePortOut" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="USBDevicePortOutPin" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="StationName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">VARNISH_PROJ_S01</Value>
+    </Setting>
+    <Setting Name="TCP_Port" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">3500</Value>
+    </Setting>
+    <Setting Name="TCP_IP" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="Scan_IP_Model" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">169.254.183.101</Value>
+    </Setting>
+    <Setting Name="NoOfScanners" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="UnitIdType" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">TMP_SN</Value>
+    </Setting>
+    <Setting Name="Projects" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">[ProjectName=Hyundai CD Rows=2 Cols=3 Products={A2C1234567890,A2C1234567891}]*[ProjectName=Hyundai FB Rows=2 Cols=3 Products={A2C1234567892,A2C1234567893}]</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
